@@ -23,13 +23,13 @@
         "image": "./images/strawberry-sprinkle.svg"
     }, {
         "name": "Apple punch",
-        "calories": 200,
+        "calories": 300,
         "type": "ice-cream",
         "ingredients": ["Apple syrup", "Sprinkles", "Vanilla Base"],
         "image": "./images/ice-cream-xtra1.svg"
     }, {
         "name": "Cookies n Cream",
-        "calories": 200,
+        "calories": 320,
         "type": "ice-cream",
         "ingredients": ["Chocolate syrup", "Oreo pieces", "Vanilla Base"],
         "image": "./images/ice-cream-xtra2.svg"
